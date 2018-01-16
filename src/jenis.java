@@ -17,13 +17,15 @@ public class jenis {
         float suhu=4.23468923f;
         char pilihan='Y';
         
+        
+        
         System.out.println("Stok semasa:"+bilangan +" unit");
         System.out.println("Nama barangan:"+barangan );
         System.out.println("Harga seunit :RM:"+harga);
         System.out.println("Status barangan:"+status);
         System.out.println("Suhu baranagan:"+suhu);
         System.out.println("Semua maklumat adalah benar:"+pilihan); 
-       
+       System.out.println("hi");
         
     }
 }
